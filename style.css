@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 40px;
+}
+.work-slide {
+  display: flex;
+  width: 80%;
+}
+.work-desc {
+  padding: 20px;
+  max-width: 50%;
+}
